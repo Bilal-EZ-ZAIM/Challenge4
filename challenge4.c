@@ -28,7 +28,7 @@ int main()
     scanf("%f", &d);
 
     somme = a + b + c , d;
-    moyenne = somme / 3;
+    moyenne = somme / 4;
     printf("la somme de  %.2f + %.2f + %.2f + %.2f = %.2f \n", a, b , c, d , somme);
     printf("la moyenne de  %.2f / 4 = %.2f \n", somme , moyenne);
 
