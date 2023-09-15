@@ -30,7 +30,7 @@ int main()
     somme = a + b + c , d;
     moyenne = somme / 3;
     printf("la somme de  %.2f + %.2f + %.2f + %.2f = %.2f \n", a, b , c, d , somme);
-    printf("la moyenne de  %.2f / 3 = %.2f \n", somme , moyenne);
+    printf("la moyenne de  %.2f / 4 = %.2f \n", somme , moyenne);
 
     return 0;
 }
